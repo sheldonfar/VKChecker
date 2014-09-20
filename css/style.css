@@ -6,7 +6,6 @@ img {
 }
 .has-message{
 	width: 320px;
-	height: 100px;
 }
 div.message-box {
 	margin-bottom: 10px;
@@ -16,5 +15,4 @@ div.message-box {
 }
 .no-messages {
 	width: 70px !important;
-	height: 50px !important;
 }
